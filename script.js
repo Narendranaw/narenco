@@ -3,5 +3,5 @@ const tombolsapa = document.getElementById('sapaButton');
 // 2. Tambahkan 'event lsitener' untuk aksi 'click'
 tombolsapa.addEventListener('click', function() {
   //3. Jalankan kode ini ketika tomnol di-klik
-  alert('Halo! terimakasih sudah berkunjung!');
+  alert('terimakasi sudah kesini!');
 });
